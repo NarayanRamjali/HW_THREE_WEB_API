@@ -13,7 +13,7 @@ function github(req, res) {
     var gits = new githubAPI({
         version: '3.0.0'
     });
-    var token = "aa55c2d33cab254a094129a4e3ab45fef323b0b3";
+    var token = "";
     gits.authenticate({
         type: 'oauth',
         token: token
