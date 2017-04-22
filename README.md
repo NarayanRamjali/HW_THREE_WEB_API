@@ -1,1 +1,1 @@
-# HW_THREE_WEB_API
+# Skeleton project for Swagger
